@@ -1,0 +1,1 @@
+ /home/vlad/personalProjects/Lab3-effective-flutter/.dart_tool/flutter_build/275963bdad5dba188cb95499dea3c10b/native_assets.yaml: 
